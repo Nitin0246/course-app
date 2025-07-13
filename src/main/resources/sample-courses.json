@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Maths for Beginners",
+    "description": "Learn basic arithmetic and algebra in this beginner course.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 199.99,
+    "nextSessionDate": "2025-07-20T15:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Art Club for Kids",
+    "description": "Explore painting, sketching and more in a creative environment.",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "3rd–5th",
+    "minAge": 8,
+    "maxAge": 11,
+    "price": 299.50,
+    "nextSessionDate": "2025-07-25T10:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Young Scientists Workshop",
+    "description": "A hands-on science workshop with fun experiments and activities.",
+    "category": "Science",
+    "type": "ONE_TIME",
+    "gradeRange": "4th–6th",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 149.00,
+    "nextSessionDate": "2025-08-05T09:00:00Z"
+  }
+]
